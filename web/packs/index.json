@@ -1,0 +1,9 @@
+{
+  "packs": [
+    "Star_vs._the_Forces_of_Evil.json",
+    "yee.json",
+    "Cute_Cats.json",
+    "Cute.json"
+  ],
+  "homeserver_url": "https://the.eldritch.gift"
+}
