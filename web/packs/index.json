@@ -5,7 +5,9 @@
     "Cute_Cats.json",
     "Cute.json",
     "Meme_Cats.json",
-    "Pusheen.json"
+    "Pusheen.json",
+    "Pusheen_Animated.json",
+    "BugCat.json"
   ],
   "homeserver_url": "https://the.eldritch.gift"
 }
